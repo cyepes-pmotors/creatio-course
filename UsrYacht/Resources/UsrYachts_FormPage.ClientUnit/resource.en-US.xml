@@ -3,6 +3,10 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yachts form page" />
+			<Item Name="LocalizableStrings.CrewCannotBeLess.Value" Value="A vessel should be manned by at least 2 sallors" />
+			<Item Name="LocalizableStrings.EmailInput_CaptainsEmail_caption.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.EmailInput_CaptainsEmail_label.Value" Value="Captain's Email" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="The very minimum for a Yacht price should be 50 USD at least " />
 			<Item Name="LocalizableStrings.PushMe_caption.Value" Value="Push me" />
 			<Item Name="LocalizableStrings.addRecord_5q4rbps_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_8w6abkt_caption.Value" Value="Add new" />

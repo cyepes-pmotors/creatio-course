@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "04338f07-39c7-460a-58a9-2f036c1456f1",
+    "Name": "DisableSysAdmUnTrigger",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1780676286000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
